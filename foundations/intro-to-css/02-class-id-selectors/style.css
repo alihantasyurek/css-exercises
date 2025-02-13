@@ -1,0 +1,19 @@
+.klass {
+  background-color: rgb(242, 178, 178);
+  font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#unique {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+#unid {
+  background-color: hsl(132 100% 50%);
+  font-size: 24px;
+  font-weight: bold;
+}
