@@ -44,5 +44,23 @@ a {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.header > * {
+  display: flex;
+  background: pink;
+  align-items: center;
+  gap: 16px;
+}
+
